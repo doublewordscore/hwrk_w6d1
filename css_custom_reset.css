@@ -1,0 +1,14 @@
+html, body, header, h1, section, h2, aside, footer, form, select, input  {
+
+  margin: 0;
+  border: 0;
+  padding: 0;
+
+  font: inherit;
+  text-align: inherit;
+  text-decoration: inherit;
+  color: inherit;
+
+  background: transparant;
+
+}

@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #F0A202
+
+}
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.ingredient-list {
+  list-style: square inside;
+}
+
+.directions-list {
+  color: #7B9E89;
+}
+
+header > img {
+  width: 100px;
+}
+
+ul li a {
+  text-decoration: none; color: inherit;
+}
+
+input[type="radio"] {
+  -webkit-appearance: none;
+  width: 27px;
+  height: 27px;
+  background-image: url(../assets/stars.png);
+  vertical-align: : bottom;
+}
+
+input: last-child {
+  background: gold;
+}
+
+input: last-child:hover {
+  -webkit-filter: brightness(90%);
+}
